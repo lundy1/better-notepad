@@ -15,3 +15,6 @@ Basically a clone of the steam notepad
 ```bash
 python main.py
 ```
+
+
+![0fe9b249f717eb306d261a4910d45626](https://github.com/user-attachments/assets/d99febf9-b8ef-4d1d-9933-10e943d93df6)
